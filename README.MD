@@ -1,7 +1,5 @@
 # Hello Word 👋🏼
 
-Me chamo Nathalia Cordeiro, tenho 18 anos e sou natural do Rio Grande do Norte. Sou apaixonada por tecnologia e atualmente curso o ensino médio no IFRN integrado ao curso técnico em informática para Internet.
-
 ### 💗 Linguagens e Tecnologias
 
 <img 
