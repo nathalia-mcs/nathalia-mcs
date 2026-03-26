@@ -1,6 +1,6 @@
-# Hello Word 👋🏼
 
-### 💗 Linguagens e Tecnologias
+
+### 💗 
 
 <img 
     align="left" 
